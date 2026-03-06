@@ -1,6 +1,6 @@
 # Projeto Biblia Online (FrontEnd)
 
-Projeto de final de curso da Tripleten Brasil. Hospedado na url ......
+Projeto de final de curso da Tripleten Brasil. Hospedado na url https://biblia-online-git-stage-react-api-brunno-souzas-projects.vercel.app/
 
 ## Objetivo
 
